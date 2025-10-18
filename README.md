@@ -35,14 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/akashyadav75/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress:** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.12% as on ⏰ 23-Aug-2025
-
 ---
-
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
