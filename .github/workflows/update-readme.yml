@@ -22,7 +22,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
           # This tells the script to find your markers
-          SECTION_NAME: "WAKATIME"
+          SECTION_NAME: "waka"
           
           BLOCKS: "year_progress, time, projects, langs, editors"
           
