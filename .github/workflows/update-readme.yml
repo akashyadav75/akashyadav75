@@ -1,0 +1,29 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: "0 */4 * * *"
+  workflow_dispatch: # Allows you to run this workflow manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master
+        with:
+          WAKA_API_KEY: ${{ secrets.WAKA_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- This is the part you want ---
+          SHOW_YEAR_PROGRESS: "true" 
+          SHOW_TIME: "true"
+          SHOW_DATE: "true"
+          # ---------------------------------
+
+          # Other WakaTime options
+          SHOW_TITLE: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_PROJECTS: "true"
