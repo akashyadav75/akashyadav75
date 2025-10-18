@@ -30,7 +30,3 @@ jobs:
           SHOW_TITLE: "true"
           TIME_RANGE: "last_7_days"
           SHOW_TIME: "true"
-          # SHOW_DATE: "true" has been removed because it was invalid
-          TIME_RANGE: "last_7_days"
-          SHOW_TIME: "true"
-          SHOW_DATE: "true"
