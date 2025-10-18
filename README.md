@@ -37,6 +37,23 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/akashyadav75/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashyadav75&theme=dark)](https://git.io/streak-stats)
+<!--START_SECTION:waka-->
+
+
+
+```txt
+
+From: 11 October 2025 - To: 18 October 2025
+
+
+
+No activity tracked
+
+```
+
+
+
+<!--END_SECTION:waka-->
 
 ---
 
