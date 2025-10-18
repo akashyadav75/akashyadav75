@@ -36,7 +36,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav&theme=dark)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
 
+```txt
+From: 11 October 2025 - To: 18 October 2025
 
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
