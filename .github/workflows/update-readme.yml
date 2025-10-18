@@ -21,11 +21,16 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          # This one line adds the year progress bar *and* your other stats
+          # This tells the script to find your markers
+          SECTION_NAME: "WAKATIME"
+          
           BLOCKS: "year_progress, time, projects, langs, editors"
           
           # --- Other settings ---
           SHOW_TITLE: "true"
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "true"
+          # SHOW_DATE: "true" has been removed because it was invalid
           TIME_RANGE: "last_7_days"
           SHOW_TIME: "true"
           SHOW_DATE: "true"
