@@ -5,25 +5,34 @@ on:
     # Runs every 4 hours
     - cron: "0 */4 * * *"
   workflow_dispatch: # Allows you to run this workflow manually
+  
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
+      
+      # --- Step 1: WakaTime Stats ---
+      # This part is now fixed with the correct input names
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
-          WAKA_API_KEY: ${{ secrets.WAKA_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          # --- This is the part you want ---
-          SHOW_YEAR_PROGRESS: "true" 
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }} # CORRECTED from WAKA_API_KEY
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}         # CORRECTED from GITHUB_TOKEN
+          
+          SHOW_TITLE: "true"
+          BLOCKS: "time, projects, langs, editors" # This replaces all the old SHOW_ flags
+          TIME_RANGE: "last_7_days"
           SHOW_TIME: "true"
           SHOW_DATE: "true"
-          # ---------------------------------
-
-          # Other WakaTime options
-          SHOW_TITLE: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_EDITORS: "true"
-          SHOW_PROJECTS: "true"
+          
+      # --- Step 2: Year Progress Bar ---
+      # This is the new step that adds the progress bar
+      - name: Update Year Progress
+        uses: athul/year-progress@master
+        with:
+          # This finds the YEAR_PROGRESS markers in your README and replaces the content
+          TARGET_REPLACE: "(.|\n)*"
