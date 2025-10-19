@@ -34,7 +34,7 @@
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashyadav75&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/akashyadav75/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&cache_bust=1)](https://github.com/akashyadav75/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashyadav75&theme=dark)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
