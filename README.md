@@ -32,7 +32,7 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashyadav75&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashyadav75&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&commits_year=2025&cache_bust=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&cache_bust=1)](https://github.com/akashyadav75/github-readme-stats)
 
