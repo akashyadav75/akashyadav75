@@ -1,61 +1,81 @@
-# Hi there! I am Akash <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,24292e,bc002d&height=280&section=header&text=Akash%20Yadav&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bridging%20Silicon%20%26%20Intelligence&descAlignY=60&descSize=20" width="100%" />
+</div>
+
 <p align="center">
-
-<a href="https://linkedin.com/in/yadavakashchs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yadavakashchs" height="30" width="30" /></a>&nbsp;
-
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05032&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Designing+Deep+Learning+Accelerators;FPGA+Compute+Engines;VLSI+%7C+Python+%7C+Verilog" alt="Typing SVG" />
+  </a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5357f3536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm an Electronics and Communication engineer with great background and knowledge of Machine Learning and Deep Learning.
-       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 💻 I use daily: **.cpp**, **.py**,  **.sql**
-- 📖 I am currently working on some project that is related to neural networks and chip designing.
-- 💬 Talk to me about cricket, Chess, Lawn Tennis, DSA, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-
-- 🧑‍💻 Tech I work on : 
-
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cpp" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg" alt="c" width="55" height="55"/>
+  <a href="https://linkedin.com/in/yadavakashchs">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akashyadav812733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashyadav75&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&commits_year=2025&cache_bust=2)
+## ⚡ The Engineer's Ledger
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&cache_bust=1)](https://github.com/akashyadav75/github-readme-stats)
+I am an **ECE undergraduate** passionate about the **Hardware-Software Co-design** frontier. My work focuses on optimizing how neural networks interact with physical silicon.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashyadav75&theme=dark)](https://git.io/streak-stats)
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 January 2026 - To: 23 January 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>🔭 Current Research</h3>
+      <ul>
+        <li><strong>Project:</strong> Data-Driven Sparse Compute Engine for CNNs.</li>
+        <li><strong>Platform:</strong> FPGA (Field Programmable Gate Array).</li>
+        <li><strong>Objective:</strong> Reducing inference latency by exploiting sparsity in Neural Networks.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <h3>🚀 Core Competencies</h3>
+      <ul>
+        <li><strong>VLSI Design</strong> (Verilog, Timing Analysis)</li>
+        <li><strong>Deep Learning</strong> (TF, Optimization)</li>
+        <li><strong>Computer Architecture</strong> (Pipelining, ISAs)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 🧠 The Tech Arsenal
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-• <i>“Perl: Those who cannot learn from history are doomed to repeat.”   </i>
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,verilog&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,raspberrypi&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,linux,vscode&theme=dark" />
+</div>
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+## 📊 Mission Control
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akashyadav75&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+  </a>
+  <br><br>
+
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=akashyadav75&show_icons=true&title_color=ff0055&icon_color=00f2ff&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&theme=radical&border_radius=10" />
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav75&layout=donut&title_color=ff0055&text_color=ffffff&bg_color=0d1117&hide=html,css&theme=radical&border_radius=10" />
+  
+  <br>
+  
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashyadav75&theme=radical&background=0d1117&border_radius=10&ring=ff0055&fire=ff0055&currStreakLabel=00f2ff" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+</div>
