@@ -59,9 +59,9 @@ I am a **Systems and Platform Engineer** passionate about the intersection of **
 
 ## 🚀 Featured Engineering Projects
 
-* ⚙️ **[Custom C++ Memory Pool Allocator](https://github.com/akashyadav75):** Bypassed standard `malloc` overhead via low-level `VirtualAlloc` APIs, reducing memory fragmentation by 8% and allocation latency by 7%.
-* ⚡ **[FPGA-Based CNN Accelerator](https://github.com/akashyadav75):** Designed a data-driven sparse compute engine in Verilog HDL and PyTorch, achieving 89% direct hardware inference accuracy.
-* 🧠 **[Deep Learning Algorithms from First Principles](https://github.com/akashyadav75):** Re-engineered core ML/DL algorithms (SVMs, Backpropagation) from scratch to solidify computational mechanics without library abstractions.
+* ⚙️ **[Custom C++ Memory Pool Allocator](https://github.com/akashyadav75/cpp-memory-pool-allocater):** Bypassed standard `malloc` overhead via low-level `VirtualAlloc` APIs, reducing memory fragmentation.
+* ⚡ **[FPGA-Based CNN Accelerator](https://github.com/akashyadav75/fpga-cnn-accelerator):** Designed a data-driven sparse compute engine in Verilog HDL and PyTorch, achieving 89% direct hardware inference accuracy.
+* 🧠 **[Deep Learning Algorithms from First Principles](https://github.com/akashyadav75/dl-from-first-principles):** Re-engineered core ML/DL algorithms (SVMs, Backpropagation) from scratch to solidify computational mechanics without library abstractions.
 
 ---
 
